@@ -7,38 +7,38 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+locale                   : "zh-cn"
+site_theme               : "jekyll-theme-minimal"
+title                    : "DF's 个人主页"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "DF"
+description              : "该网页用于链接我的相关工作。"
+url                      : https://www.xiaoyuezhou.top # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "df-xiao/df-xiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "avatar.png"
+  name             : "ZXY"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "风吹过，鸟儿迎风笑，草木逆风行"
+  location         : "Earth/China"
+  employer         : "NJUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zzdf176@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
