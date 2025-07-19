@@ -23,11 +23,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Social"
-  url: /social/
-    
   - title: "CV"
-    url: /cv/
+    url: "/cv/"
+  - title: "Social"
+    url: "/social/"
+
     
   # - title: "CV"
   #   url: /cv-json/
