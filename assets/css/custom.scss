@@ -1,0 +1,11 @@
+@font-face {
+  font-family: '苍耳今楷';
+  src: url('{{ "/assets/fonts/苍耳今楷.woff2" | relative_url }}') format('woff2'),
+       url('{{ "/assets/fonts/苍耳今楷.ttf" | relative_url }}') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MyFont', sans-serif !important;
+}
