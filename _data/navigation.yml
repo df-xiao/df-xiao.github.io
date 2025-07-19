@@ -23,8 +23,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Test"
-  url: /test/
+  - title: "Social"
+  url: /social/
     
   - title: "CV"
     url: /cv/
